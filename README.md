@@ -13,7 +13,7 @@ Qui raccolgo esperimenti, applicazioni, sistemi, tentativi riusciti e qualche de
 > Se cerchi l’ennesima demo dell’AI che scrive una mail, probabilmente sei nel posto sbagliato.  
 > Se vuoi vedere **fin dove si può spingere**, continua sotto.
 
-**→ [emaf205.com](https://emaf205.com)**  
+**→ [Blog](https://emaf205.com)**  
 **→ [LinkedIn](https://www.linkedin.com/in/emanuelebdc/)**  
 **→ [Linktree](https://linktr.ee/emaf205)**
 
