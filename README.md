@@ -19,21 +19,46 @@ Qui raccolgo esperimenti, applicazioni, sistemi, tentativi riusciti e qualche de
 
 ## Progetti
 
-| Progetto | Cos'è |
-|:--|:--|
-| **[OFFICE OS](https://github.com/emaf205/office-os)** | Assistenti AI per l’ufficio |
-| **[DEAD TEXT SOCIETY](https://github.com/emaf205/DEAD-TEXT-SOCIETY)** | Trasformazioni creative di contenuti |
-| **[FIXYOUREYES](https://github.com/emaf205/FIXYOUREYES)** | Direzione artistica per thumbnail |
-| **[Transcript → Magazine](https://github.com/emaf205/transcript-to-magazine-ai)** | Da transcript a magazine |
-| **[AI Policy Builder](https://github.com/emaf205/ai-policy-builder)** | Policy AI aziendali |
-| **[Simple PDF Sign](https://github.com/emaf205/SIMPLE-PDF-SIGN)** | Firma PDF nel browser |
-| **[Prompt Search](https://github.com/emaf205/prompt-search)** | Ricerca locale nei prompt |
-| **[REX for ChatGPT](https://github.com/emaf205/Rex-for-ChatGPT)** | Timer assurdo per ChatGPT |
-| **[EMAF205 SNAP](https://github.com/emaf205/emaf205-snap)** | Screenshot → clipboard |
-| **[EMAF205 TAPETONE](https://github.com/emaf205/emaf205-tapetone)** | Effetti tape nel browser |
-| **[EMAF205 Landing](https://github.com/emaf205/emaf205-landing)** | Landing page PHP minimale |
-| **[EMAF205 Links](https://github.com/emaf205/EmaF205-LinksX)** | Link page self-hosted |
-| **[Easy Personal Linktree](https://github.com/emaf205/EASY-PERSONAL-LINKTREE)** | Linktree self-hosted |
-| **[FTP Minimal Archive](https://github.com/emaf205/FTP-Minimal-Archive)** | Archivio FTP minimale |
+**Come cambia il lavoro d’ufficio se l’AI smette di essere una chat e diventa uno strumento operativo?**  
+→ [OFFICE OS](https://github.com/emaf205/office-os)
+
+**Quante vite può avere un contenuto che sembrava già finito?**  
+→ [DEAD TEXT SOCIETY](https://github.com/emaf205/DEAD-TEXT-SOCIETY)
+
+**Possiamo salvare le thumbnail di YouTube dal clickbait mediocre?**  
+→ [FIXYOUREYES](https://github.com/emaf205/FIXYOUREYES)
+
+**Un transcript può diventare una vera pubblicazione editoriale?**  
+→ [Transcript → Magazine](https://github.com/emaf205/transcript-to-magazine-ai)
+
+**Un’azienda può iniziare a costruire una policy AI senza partire da una pagina bianca?**  
+→ [AI Policy Builder](https://github.com/emaf205/ai-policy-builder)
+
+**Perché firmare un PDF dovrebbe richiedere account, upload e software pesante?**  
+→ [Simple PDF Sign](https://github.com/emaf205/SIMPLE-PDF-SIGN)
+
+**Come ritrovi il prompt giusto quando ne hai centinaia?**  
+→ [Prompt Search](https://github.com/emaf205/prompt-search)
+
+**Quando una sessione su ChatGPT smette di essere intenzionale e diventa un buco nero?**  
+→ [REX for ChatGPT](https://github.com/emaf205/Rex-for-ChatGPT)
+
+**Perché fare cinque passaggi per uno screenshot che vuoi solo incollare?**  
+→ [EMAF205 SNAP](https://github.com/emaf205/emaf205-snap)
+
+**Si può dare carattere analogico a un audio senza uscire dal browser?**  
+→ [EMAF205 TAPETONE](https://github.com/emaf205/emaf205-tapetone)
+
+**Serve davvero un CMS per pubblicare una landing page?**  
+→ [EMAF205 Landing](https://github.com/emaf205/emaf205-landing)
+
+**Serve davvero una piattaforma esterna per pubblicare una pagina di link?**  
+→ [EMAF205 Links](https://github.com/emaf205/EmaF205-LinksX)
+
+**Perché pagare un abbonamento per una pagina che contiene solo i tuoi link?**  
+→ [Easy Personal Linktree](https://github.com/emaf205/EASY-PERSONAL-LINKTREE)
+
+**Serve davvero un CMS per trasformare una cartella in un archivio pubblico?**  
+→ [FTP Minimal Archive](https://github.com/emaf205/FTP-Minimal-Archive)
 
 *Made by me with love in Milan*
