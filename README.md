@@ -15,15 +15,18 @@
 
 ---
 
-### ✦ Manifesto
+### ✦ Chi sono & Manifesto
 
-Vivo e lavoro a **Milano**. Insegno intelligenza artificiale e passo una quantità poco ragionevole di tempo a capire cosa succede quando smetti di usare i modelli nel modo in cui ti è stato detto di usarli.
+Mi chiamo **Emanuele**. Vivo e lavoro a **Milano**, insegno intelligenza artificiale e passo una quantità poco ragionevole di tempo a capire cosa succede quando smetti di usare i modelli nel modo in cui ti è stato detto di usarli.
 
-Qui raccolgo esperimenti, applicazioni web, sistemi editoriali e utility locali. Costruisco per capire: **provo, rompo, correggo, documento.**
+Qui raccolgo esperimenti, applicazioni web, sistemi, tentativi riusciti e qualche deviazione strana. Costruisco per capire: **provo, rompo, correggo, documento.**
 
-- **Local-First & Client-Side**: Niente database inutili né API superflue per problemi che un browser risolve in locale.
+- **Local-First & Client-Side**: Niente database inutili né API superflue per problemi che un browser moderno risolve in locale.
 - **Vanilla Web**: HTML semantico, CSS rigoroso e JavaScript puro. Zero framework pesanti quando basta il web nativo.
 - **Precisione Editoriale**: Griglie geometriche svizzere, bianco puro `#ffffff`, nero solido `#000000` e tipografia modernista.
+
+> Se cerchi l’ennesima demo dell’AI che scrive una mail, probabilmente sei nel posto sbagliato.  
+> Se vuoi vedere **fin dove si può spingere**, continua sotto.
 
 ---
 
