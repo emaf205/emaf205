@@ -1,27 +1,54 @@
+<div align="center">
+
 # Emanuele BDC
+### Docente, formatore e consulente AI · Milano
 
-Docente e consulente di Intelligenza Artificiale a Milano.  
-Costruisco web app local-first, interfacce minimaliste e workflow agentici per esplorare cosa succede oltre i tutorial standard.
+[![Website](https://img.shields.io/badge/Sito-emaf205.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emaf205.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emanuele_BDC-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelebdc/)
+[![Linktree](https://img.shields.io/badge/Linktree-emaf205-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/emaf205)
 
-[emaf205.com](https://emaf205.com) · [Ideas & Web Apps](https://emaf205.com/ideas/) · [LinkedIn](https://linkedin.com/in/emanuelebdc) · [Contatti](mailto:emagumroad@gmail.com)
+<br/>
 
----
+> *«Mi interessa soprattutto quello che viene dopo il tutorial: quando un prompt diventa un workflow, una lezione diventa uno strumento, un problema reale diventa un piccolo prodotto e un limite diventa qualcosa da mettere alla prova.»*
 
-### Progetti Selezionati
-
-- **[AI DIARY](https://emaf205.com/ideas/ai-diary/)** — Micro-cronaca e diario pubblico su scoperte e workflow AI quotidiani.
-- **[SILVO TV](https://emaf205.com/ideas/silvo-tv/)** — Web app PWA vintage CRT con 200 clip video storiche in autoplay.
-- **[TORNO SUBITO](https://emaf205.com/ideas/torno-subito/)** — Net art: vetrina digitale sincronizzata con gli orari reali di una ferramenta.
-- **[AI POLICY BUILDER](https://emaf205.com/ideas/ai-policy-builder/)** — Generatore in 3 step di policy interne sull'AI per PMI e professionisti.
-- **[BRERA STYLEBOOK](https://brera-stylebook.netlify.app/)** — Libreria visuale local-first per direzione artistica e prompt engineering.
-- **[SIMPLE PDF SIGN](https://github.com/emaf205/SIMPLE-PDF-SIGN)** — Utility PWA 100% offline per firmare e timbrare PDF nel browser.
-
-> Catalogo completo e prototipi live su **[emaf205.com/ideas](https://emaf205.com/ideas/)**.
+</div>
 
 ---
 
-### Principi
+### ✦ Chi sono & Manifesto
 
-- **Local-First & Client-Side:** zero complessità o database per ciò che un browser moderno risolve in locale.
-- **Vanilla Web:** HTML semantico, CSS geometrico e JavaScript puro.
-- **Precisione:** architettura rigorosa, contrasto netto e tipografia modernista.
+Mi chiamo **Emanuele**. Vivo e lavoro a **Milano**, insegno intelligenza artificiale e passo una quantità poco ragionevole di tempo a capire cosa succede quando smetti di usare i modelli nel modo in cui ti è stato detto di usarli.
+
+Qui raccolgo esperimenti, applicazioni web, sistemi, tentativi riusciti e qualche deviazione strana. Costruisco per capire: **provo, rompo, correggo, documento.**
+
+- **Local-First & Client-Side**: Niente database inutili né API superflue per problemi che un browser moderno risolve in locale.
+- **Vanilla Web**: HTML semantico, CSS rigoroso e JavaScript puro. Zero framework pesanti quando basta il web nativo.
+- **Precisione Editoriale**: Griglie geometriche svizzere, bianco puro `#ffffff`, nero solido `#000000` e tipografia modernista.
+
+> Se cerchi l’ennesima demo dell’AI che scrive una mail, probabilmente sei nel posto sbagliato.  
+> Se vuoi vedere **fin dove si può spingere**, trovi tutte le web app e gli esperimenti su **[emaf205.com/ideas](https://emaf205.com/ideas/)**.
+
+---
+
+### ⚙️ Stack & Principi
+
+```text
+Architettura : Local-First · Single-File HTML · Offline-Ready (PWA)
+Frontend     : Vanilla HTML5 · CSS3 Grid/Flexbox · Modern ES6+ JS
+AI Workflows : Prompt Engineering Avanzato · Art Direction · Pair Programming (Google Antigravity)
+Estetica     : International Typographic Style (Swiss Grid) · High Contrast
+```
+
+---
+
+### 📬 Contatti & Canali
+
+- 🌐 **Sito & Blog:** [emaf205.com](https://emaf205.com)
+- 💡 **Web Apps & Esperimenti:** [emaf205.com/ideas](https://emaf205.com/ideas/)
+- 💼 **LinkedIn:** [linkedin.com/in/emanuelebdc](https://www.linkedin.com/in/emanuelebdc/)
+- 🔗 **Linktree:** [linktr.ee/emaf205](https://linktr.ee/emaf205)
+- ✉️ **Email:** `emagumroad@gmail.com`
+
+<div align="center">
+<sub>Made with precision & passion in Milan by Emanuele BDC</sub>
+</div>
