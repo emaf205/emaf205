@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/social-preview.jpg" alt="Emanuele BDC // Creative Technologist & AI Architect" width="100%">
+  <img src="assets/profile-hero.jpg" alt="Emanuele BDC // Creative Technologist & AI Architect" width="100%">
 </p>
 
 <h1 align="center">Emanuele BDC (EmaF205)</h1>

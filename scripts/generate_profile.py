@@ -223,7 +223,7 @@ PROJECTS = [
 def render_readme():
     lines = []
     lines.append('<p align="center">')
-    lines.append('  <img src="assets/social-preview.jpg" alt="Emanuele BDC // Creative Technologist & AI Architect" width="100%">')
+    lines.append('  <img src="assets/profile-hero.jpg" alt="Emanuele BDC // Creative Technologist & AI Architect" width="100%">')
     lines.append('</p>\n')
     lines.append('<h1 align="center">Emanuele BDC (EmaF205)</h1>')
     lines.append('<p align="center">')
