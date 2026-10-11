@@ -4,6 +4,7 @@
 ### Docente, formatore e consulente AI · Milano
 
 [![Website](https://img.shields.io/badge/Sito-emaf205.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emaf205.com)
+[![GitHub Projects](https://img.shields.io/badge/GitHub_Hub-Progetti_Open_Source-dfff00?style=for-the-badge&logo=github&logoColor=000000)](https://emaf205.github.io/github/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Emanuele_BDC-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelebdc/)
 [![Linktree](https://img.shields.io/badge/Linktree-emaf205-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/emaf205)
 
@@ -26,7 +27,7 @@ Qui raccolgo esperimenti, applicazioni web, sistemi, tentativi riusciti e qualch
 - **Precisione Editoriale**: Griglie geometriche svizzere, bianco puro `#ffffff`, nero solido `#000000` e tipografia modernista.
 
 > Se cerchi l’ennesima demo dell’AI che scrive una mail, probabilmente sei nel posto sbagliato.  
-> Se vuoi vedere **fin dove si può spingere**, trovi tutte le web app e gli esperimenti su **[emaf205.com/ideas](https://emaf205.com/ideas/)**.
+> Per esplorare tutte le web app, i tool e i prototipi creativi, consulta il **[GitHub Linktree Hub](https://emaf205.github.io/github/)** o l'archivio su **[emaf205.com/ideas](https://emaf205.com/ideas/)**.
 
 ---
 
@@ -44,6 +45,7 @@ Estetica     : International Typographic Style (Swiss Grid) · High Contrast
 ### 📬 Contatti & Canali
 
 - 🌐 **Sito & Blog:** [emaf205.com](https://emaf205.com)
+- ⚡ **GitHub Mobile Hub:** [emaf205.github.io/github](https://emaf205.github.io/github/) *(Linktree dei repository con auto-aggiornamento)*
 - 💡 **Web Apps & Esperimenti:** [emaf205.com/ideas](https://emaf205.com/ideas/)
 - 💼 **LinkedIn:** [linkedin.com/in/emanuelebdc](https://www.linkedin.com/in/emanuelebdc/)
 - 🔗 **Linktree:** [linktr.ee/emaf205](https://linktr.ee/emaf205)
