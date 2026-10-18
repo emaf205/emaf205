@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://emaf205.com"><img src="https://img.shields.io/badge/Official_Website-emaf205.com-e63946?style=for-the-badge&logo=safari" alt="Website"></a>
-  <a href="https://github.com/emaf205"><img src="https://img.shields.io/badge/GitHub_Showcase-23_Active_Projects-181a20?style=for-the-badge&logo=github" alt="Projects"></a>
+  <a href="https://github.com/emaf205"><img src="https://img.shields.io/badge/GitHub_Showcase-22_Active_Projects-181a20?style=for-the-badge&logo=github" alt="Projects"></a>
   <a href="https://github.com/emaf205/emaf205/actions"><img src="https://img.shields.io/badge/Automated_Profile-100%25_Hands--Free-242733?style=for-the-badge&logo=github-actions" alt="Actions"></a>
 </p>
 
@@ -32,27 +32,12 @@ Digital craftsmanship operating at the convergence of **Swiss design discipline*
 > *A continuous, full-width visual feed of production web apps, sensory prototypes, and open-source tools.*
 
 <p align="center">
-  <a href="https://github.com/emaf205/EMAF205-skills">
-    <img src="assets/covers/EMAF205-skills.jpg" alt="EMAF205 Skills // 29 Production Agentic Skills Suite" width="100%">
-  </a>
-</p>
-
-### 1. [EMAF205 Skills // 29 Production Agentic Skills Suite](https://github.com/emaf205/EMAF205-skills)
-`ANTIGRAVITY` `CODEX` `QUALITY GATES` `SWISS DESIGN` `WEB AUDIO` `AGENTIC OS`
-
-> The official suite of 29 modular agentic skills for Google Antigravity & OpenAI Codex. Zero AI slop, adversarial Ferrari Test quality gates, Swiss modernist typography, 1KB procedural audio, and continuous automated synchronization.
-
-<p><a href="https://github.com/emaf205/EMAF205-skills"><img src="https://img.shields.io/badge/GitHub-Repository-181a20?style=for-the-badge&logo=github" alt="Repository"></a> <a href="https://github.com/emaf205/EMAF205-skills#installation--usage"><img src="https://img.shields.io/badge/Install-1--Click_Symlink-00e599?style=for-the-badge&logo=terminal&logoColor=000000" alt="Install"></a></p>
-
----
-
-<p align="center">
   <a href="https://github.com/emaf205/silvo-tv">
     <img src="assets/covers/silvo-tv.jpg" alt="SILVO TV // Retro CRT Video Simulator" width="100%">
   </a>
 </p>
 
-### 2. [SILVO TV // Retro CRT Video Simulator](https://github.com/emaf205/silvo-tv)
+### 1. [SILVO TV // Retro CRT Video Simulator](https://github.com/emaf205/silvo-tv)
 `PWA` `RETRO CRT` `WEB AUDIO` `VANILLA JS`
 
 > Interactive vintage cathode-ray tube television simulator with tactile rotary channel knobs, scanline shaders, and continuous broadcast of historical archives.
@@ -67,7 +52,7 @@ Digital craftsmanship operating at the convergence of **Swiss design discipline*
   </a>
 </p>
 
-### 3. [Easy ChatGPT Importer // Offline JSON Archive Reader](https://github.com/emaf205/EMAF205-Easy-ChatGPT-Importer)
+### 2. [Easy ChatGPT Importer // Offline JSON Archive Reader](https://github.com/emaf205/EMAF205-Easy-ChatGPT-Importer)
 `PWA` `OFFLINE-FIRST` `JSON PARSER` `MARKDOWN EXPORT`
 
 > Zero-cloud, client-side conversation explorer and markdown exporter for official OpenAI data exports. Sub-second full-text search across gigabytes of history.
@@ -82,7 +67,7 @@ Digital craftsmanship operating at the convergence of **Swiss design discipline*
   </a>
 </p>
 
-### 4. [Simple PDF Sign // In-Browser Cryptographic Signing](https://github.com/emaf205/SIMPLE-PDF-SIGN)
+### 3. [Simple PDF Sign // In-Browser Cryptographic Signing](https://github.com/emaf205/SIMPLE-PDF-SIGN)
 `PWA` `CRYPTOGRAPHY` `CANVAS` `ZERO SERVER`
 
 > Pure browser-based digital document signing and cryptographic stamping utility. Zero server uploads, zero cloud dependencies, 100% private.
@@ -97,7 +82,7 @@ Digital craftsmanship operating at the convergence of **Swiss design discipline*
   </a>
 </p>
 
-### 5. [AI Diary // Encrypted Local-First Journal](https://github.com/emaf205/ai-diary)
+### 4. [AI Diary // Encrypted Local-First Journal](https://github.com/emaf205/ai-diary)
 `PWA` `INDEXEDDB` `LOCAL-FIRST` `ENCRYPTION`
 
 > Private personal reflection diary and workflow chronicle with local IndexedDB storage, biometric lock simulation, and zero telemetry.
@@ -112,7 +97,7 @@ Digital craftsmanship operating at the convergence of **Swiss design discipline*
   </a>
 </p>
 
-### 6. [Kurt Cobain Street Critic // Lo-Fi Grunge Zine](https://github.com/emaf205/kurt-cobain-street-critic)
+### 5. [Kurt Cobain Street Critic // Lo-Fi Grunge Zine](https://github.com/emaf205/kurt-cobain-street-critic)
 `PWA` `LO-FI` `GRUNGE ZINE` `WEB AUDIO` `SATIRE`
 
 > Photocopier halftone zine simulator and satirical street art critique engine. Caustic commentary on modern consumer aesthetics built with Web Audio.
@@ -127,7 +112,7 @@ Digital craftsmanship operating at the convergence of **Swiss design discipline*
   </a>
 </p>
 
-### 7. [Easy Personal Linktree // High-Velocity Bio Link Hub](https://github.com/emaf205/EASY-PERSONAL-LINKTREE)
+### 6. [Easy Personal Linktree // High-Velocity Bio Link Hub](https://github.com/emaf205/EASY-PERSONAL-LINKTREE)
 `MOBILE-FIRST` `ZERO BLOAT` `SUB-50MS` `VANILLA CSS`
 
 > Uncompromising, zero-dependency bio link directory loading in under 50 milliseconds. Single-file architecture with tactile mobile touch ergonomcs.
@@ -142,7 +127,7 @@ Digital craftsmanship operating at the convergence of **Swiss design discipline*
   </a>
 </p>
 
-### 8. [Links-X // High-Contrast Brutalist Directory](https://github.com/emaf205/EmaF205-LinksX)
+### 7. [Links-X // High-Contrast Brutalist Directory](https://github.com/emaf205/EmaF205-LinksX)
 `BRUTALISM` `HIGH-CONTRAST` `KEYBOARD NAV` `FAST WEB`
 
 > High-contrast, hyper-fast personal link directory built with electric neon accents, obsidian black backgrounds, and zero framework bloat.
@@ -157,7 +142,7 @@ Digital craftsmanship operating at the convergence of **Swiss design discipline*
   </a>
 </p>
 
-### 9. [TapeTone // Analog Cassette Tape & Saturation Synth](https://github.com/emaf205/emaf205-tapetone)
+### 8. [TapeTone // Analog Cassette Tape & Saturation Synth](https://github.com/emaf205/emaf205-tapetone)
 `WEB AUDIO` `ANALOG SATURATION` `CASSETTE TAPE` `SYNTH`
 
 > Warm analog acoustic saturation synthesizer and tape reel audio simulator modeling physical magnetic tape imperfections directly in browser memory.
@@ -172,7 +157,7 @@ Digital craftsmanship operating at the convergence of **Swiss design discipline*
   </a>
 </p>
 
-### 10. [GIF TV // Algorithmic Retro Visual Broadcaster](https://github.com/emaf205/gif-tv)
+### 9. [GIF TV // Algorithmic Retro Visual Broadcaster](https://github.com/emaf205/gif-tv)
 `RETRO BROADCAST` `GENERATIVE` `CANVAS 2D` `NET ART`
 
 > Algorithmic non-stop retro animated GIF broadcasting station, procedural visual channel switcher, and generative net art installation.
@@ -187,7 +172,7 @@ Digital craftsmanship operating at the convergence of **Swiss design discipline*
   </a>
 </p>
 
-### 11. [Torno Subito // Interactive Spring Physics Sign](https://github.com/emaf205/torno-subito)
+### 10. [Torno Subito // Interactive Spring Physics Sign](https://github.com/emaf205/torno-subito)
 `PHYSICS ENGINE` `SPRING DYNAMICS` `VINTAGE ITALIAN` `INTERACTIVE`
 
 > Vintage Italian storefront sign simulation featuring real-time critically damped harmonic spring physics, interactive dragging, and opening hours net art.
@@ -202,7 +187,7 @@ Digital craftsmanship operating at the convergence of **Swiss design discipline*
   </a>
 </p>
 
-### 12. [Office OS // 90s Corporate Desktop Environment](https://github.com/emaf205/office-os)
+### 11. [Office OS // 90s Corporate Desktop Environment](https://github.com/emaf205/office-os)
 `90S DESKTOP` `RETRO OS` `SOUNDBOARD` `AMBIENT`
 
 > Nostalgic 1990s corporate desktop environment, retro operating system simulator, and office soundboard built with semantic DOM components.
@@ -217,7 +202,7 @@ Digital craftsmanship operating at the convergence of **Swiss design discipline*
   </a>
 </p>
 
-### 13. [FIXYOUREYES // Sensory Ocular Relief & Therapy](https://github.com/emaf205/FIXYOUREYES)
+### 12. [FIXYOUREYES // Sensory Ocular Relief & Therapy](https://github.com/emaf205/FIXYOUREYES)
 `EYE CARE` `VISUAL THERAPY` `WELLNESS` `PWA`
 
 > Sensory ocular relief utility and visual fatigue exercise tool designed for screen workers, programmers, and designers.
@@ -232,7 +217,7 @@ Digital craftsmanship operating at the convergence of **Swiss design discipline*
   </a>
 </p>
 
-### 14. [BRERA StyleBook // Swiss Editorial Design System](https://github.com/emaf205/BRERA-STYLEBOOK)
+### 13. [BRERA StyleBook // Swiss Editorial Design System](https://github.com/emaf205/BRERA-STYLEBOOK)
 `SWISS DESIGN` `TYPOGRAPHY` `DESIGN SYSTEM` `CSS`
 
 > Precision Swiss typographic design system and CSS framework curated in Milan. Modular scales, print-grade microtypography, and anti-AI design patterns.
@@ -247,7 +232,7 @@ Digital craftsmanship operating at the convergence of **Swiss design discipline*
   </a>
 </p>
 
-### 15. [Dead Text Society // Literary Typography Crypt](https://github.com/emaf205/DEAD-TEXT-SOCIETY)
+### 14. [Dead Text Society // Literary Typography Crypt](https://github.com/emaf205/DEAD-TEXT-SOCIETY)
 `EDITORIAL` `TYPOGRAPHY` `LITERARY CRYPT` `ZINE`
 
 > Interactive typographical cemetery and dark zine exhibition for preserving fragmented prose, forgotten thoughts, and discarded manuscripts.
@@ -262,7 +247,7 @@ Digital craftsmanship operating at the convergence of **Swiss design discipline*
   </a>
 </p>
 
-### 16. [Transcript to Magazine AI // Monograph Publisher](https://github.com/emaf205/transcript-to-magazine-ai)
+### 15. [Transcript to Magazine AI // Monograph Publisher](https://github.com/emaf205/transcript-to-magazine-ai)
 `CSS PAGED MEDIA` `EDITORIAL PRINT` `AI SESSIONS` `PDF EXPORT`
 
 > Architectural publishing pipeline transforming raw conversational AI dialogue logs into museum-grade, multi-column editorial magazines.
@@ -277,7 +262,7 @@ Digital craftsmanship operating at the convergence of **Swiss design discipline*
   </a>
 </p>
 
-### 17. [EMAF205 Landing // Architectural Portfolio Showcase](https://github.com/emaf205/emaf205-landing)
+### 16. [EMAF205 Landing // Architectural Portfolio Showcase](https://github.com/emaf205/emaf205-landing)
 `EDITORIAL` `SWISS TYPOGRAPHY` `PHP ROUTING` `LIGHTWEIGHT`
 
 > Architectural, editorial portfolio landing page built with Swiss typographic discipline, modular layout grids, and lightweight vanilla code.
@@ -292,7 +277,7 @@ Digital craftsmanship operating at the convergence of **Swiss design discipline*
   </a>
 </p>
 
-### 18. [Prompt Search // Sub-Millisecond AI Prompt Catalog](https://github.com/emaf205/prompt-search)
+### 17. [Prompt Search // Sub-Millisecond AI Prompt Catalog](https://github.com/emaf205/prompt-search)
 `PROMPT ENGINEERING` `SEARCH ENGINE` `CLIENT-SIDE` `AI TOOLS`
 
 > Ultra-fast, zero-dependency browser search engine and visual catalog for production prompts, system personas, and agent directives.
@@ -307,7 +292,7 @@ Digital craftsmanship operating at the convergence of **Swiss design discipline*
   </a>
 </p>
 
-### 19. [AI Policy Builder // Corporate Governance Generator](https://github.com/emaf205/ai-policy-builder)
+### 18. [AI Policy Builder // Corporate Governance Generator](https://github.com/emaf205/ai-policy-builder)
 `AI GOVERNANCE` `COMPLIANCE` `ENTERPRISE AI` `POLICY`
 
 > Enterprise generative AI governance and ethical policy generator for studios and companies. Generates customized legal compliance frameworks.
@@ -322,7 +307,7 @@ Digital craftsmanship operating at the convergence of **Swiss design discipline*
   </a>
 </p>
 
-### 20. [REX // Ruthless Executive Reasoning Persona](https://github.com/emaf205/Rex-for-ChatGPT)
+### 19. [REX // Ruthless Executive Reasoning Persona](https://github.com/emaf205/Rex-for-ChatGPT)
 `SYSTEM PROMPT` `REASONING` `FORENSIC CODE REVIEW` `ANTI-SLOP`
 
 > High-density executive system prompt and adversarial reasoning persona for forensic engineering, architecture review, and zero-bullshit problem solving.
@@ -337,7 +322,7 @@ Digital craftsmanship operating at the convergence of **Swiss design discipline*
   </a>
 </p>
 
-### 21. [Static Folder Publisher // Zero-Noise Deploy CLI](https://github.com/emaf205/static-folder-publisher)
+### 20. [Static Folder Publisher // Zero-Noise Deploy CLI](https://github.com/emaf205/static-folder-publisher)
 `CLI` `PYTHON` `FTP DEPLOY` `METADATA SANITIZER`
 
 > Opinionated Python CLI tool for deploying and syncing local static folders to web servers with automated OS metadata sanitization (.DS_Store strip).
@@ -352,7 +337,7 @@ Digital craftsmanship operating at the convergence of **Swiss design discipline*
   </a>
 </p>
 
-### 22. [SNAP // Viewport Framing & Screenshot Utility](https://github.com/emaf205/emaf205-snap)
+### 21. [SNAP // Viewport Framing & Screenshot Utility](https://github.com/emaf205/emaf205-snap)
 `SCREENSHOT` `VIEWPORT FRAMING` `CANVAS` `DESIGN UTILITY`
 
 > Lightweight viewport capture and mockup framing utility creating clean, distraction-free visual presentations for web apps.
@@ -367,7 +352,7 @@ Digital craftsmanship operating at the convergence of **Swiss design discipline*
   </a>
 </p>
 
-### 23. [FTP Minimal Archive // Static Directory Indexer](https://github.com/emaf205/FTP-Minimal-Archive)
+### 22. [FTP Minimal Archive // Static Directory Indexer](https://github.com/emaf205/FTP-Minimal-Archive)
 `PHP` `DIRECTORY BROWSER` `ZERO DATABASE` `DEPLOYMENT`
 
 > Single-file static directory explorer and lightweight FTP release bundle browser for shared hosting and asset archiving.
